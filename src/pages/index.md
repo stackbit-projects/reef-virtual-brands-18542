@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Reef Virtual Brands
 white_header: true
 sections:
   - type: hero_section
